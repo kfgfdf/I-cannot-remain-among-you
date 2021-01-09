@@ -1,0 +1,596 @@
+fileFormatVersion: 2
+guid: 9234e97a189ed89479fa9eefcaf2a26d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6020713340775073684
+    second: WhiteHazmat_0
+  - first:
+      213: -564417430198487155
+    second: WhiteHazmat_1
+  - first:
+      213: -4577016962077446364
+    second: WhiteHazmat_2
+  - first:
+      213: -7363723134339145355
+    second: WhiteHazmat_3
+  - first:
+      213: 3804823179037376514
+    second: WhiteHazmat_4
+  - first:
+      213: -7566219247765890566
+    second: WhiteHazmat_5
+  - first:
+      213: -1215801752377985777
+    second: WhiteHazmat_6
+  - first:
+      213: -9172305406964378287
+    second: WhiteHazmat_7
+  - first:
+      213: -2115967878857239180
+    second: WhiteHazmat_8
+  - first:
+      213: 6347711948255449872
+    second: WhiteHazmat_9
+  - first:
+      213: 4912842029823182609
+    second: WhiteHazmat_10
+  - first:
+      213: -958213952137072528
+    second: WhiteHazmat_11
+  - first:
+      213: 4169175210085966161
+    second: WhiteHazmat_12
+  - first:
+      213: -1626231522971439161
+    second: WhiteHazmat_13
+  - first:
+      213: -3195081882145754965
+    second: WhiteHazmat_14
+  - first:
+      213: 1284204150244935184
+    second: WhiteHazmat_14
+  - first:
+      213: 6637294028740246514
+    second: WhiteHazmat_15
+  - first:
+      213: 232375327697313435
+    second: WhiteHazmat_17
+  - first:
+      213: -1532103236959689877
+    second: WhiteHazmat_16
+  - first:
+      213: 8261122034387000188
+    second: WhiteHazmat_19
+  - first:
+      213: 6254004716440310698
+    second: WhiteHazmat_17
+  - first:
+      213: -8606297644734319640
+    second: WhiteHazmat_18
+  - first:
+      213: -7248081339875649814
+    second: WhiteHazmat_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WhiteHazmat_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 255
+        width: 30
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6875ac9d11227ca0800000000000000
+      internalID: -6020713340775073684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteHazmat_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 255
+        width: 30
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87faff6659ca28f0800000000000000
+      internalID: -564417430198487155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteHazmat_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 257
+        width: 33
+        height: 34
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.38235295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42faf64b25b2b70c0800000000000000
+      internalID: -4577016962077446364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteHazmat_3
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 207
+        width: 33
+        height: 34
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.38235295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571a361f2dccec990800000000000000
+      internalID: -7363723134339145355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteHazmat_4
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 208
+        width: 34
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.36363637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20002b3c5827dc430800000000000000
+      internalID: 3804823179037376514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteHazmat_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 155
+        width: 30
+        height: 38
+      alignment: 9
+      pivot: {x: 0.6, y: 0.39473686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9d0348ea36ff690800000000000000
+      internalID: -7566219247765890566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteHazmat_6
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 155
+        width: 30
+        height: 39
+      alignment: 9
+      pivot: {x: 0.6, y: 0.3846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0576307fba902fe0800000000000000
+      internalID: -1215801752377985777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteHazmat_7
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 155
+        width: 27
+        height: 42
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.35714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1555e7e44dc65b080800000000000000
+      internalID: -9172305406964378287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteHazmat_8
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 155
+        width: 39
+        height: 42
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.35714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475d390dc6292a2e0800000000000000
+      internalID: -2115967878857239180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteHazmat_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 105
+        width: 30
+        height: 38
+      alignment: 9
+      pivot: {x: 0.6, y: 0.39473686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013d444a26a971850800000000000000
+      internalID: 6347711948255449872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteHazmat_10
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 107
+        width: 33
+        height: 37
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.35135135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1174839fbcbed2440800000000000000
+      internalID: 4912842029823182609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteHazmat_11
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 105
+        width: 27
+        height: 42
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.35714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070fb04cc7db3b2f0800000000000000
+      internalID: -958213952137072528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteHazmat_12
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 107
+        width: 39
+        height: 40
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.32500002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151e98ba3c2ebd930800000000000000
+      internalID: 4169175210085966161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteHazmat_13
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 55
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: 0.45000002, y: 0.39473686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfaeb6cb077e69e0800000000000000
+      internalID: -1626231522971439161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteHazmat_14
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 55
+        width: 43
+        height: 36
+      alignment: 9
+      pivot: {x: 0.41860464, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0168e62eed862d110800000000000000
+      internalID: 1284204150244935184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteHazmat_15
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 55
+        width: 46
+        height: 36
+      alignment: 9
+      pivot: {x: 0.39130434, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb32e4d0c76c1c50800000000000000
+      internalID: 6637294028740246514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteHazmat_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 5
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: 0.45000002, y: 0.39473686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63aac13930ecbae0800000000000000
+      internalID: -1532103236959689877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteHazmat_17
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 7
+        width: 43
+        height: 34
+      alignment: 9
+      pivot: {x: 0.41860464, y: 0.38235295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3da0b8720bac650800000000000000
+      internalID: 6254004716440310698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteHazmat_18
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 5
+        width: 46
+        height: 36
+      alignment: 9
+      pivot: {x: 0.39130434, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e37456e3e9409880800000000000000
+      internalID: -8606297644734319640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

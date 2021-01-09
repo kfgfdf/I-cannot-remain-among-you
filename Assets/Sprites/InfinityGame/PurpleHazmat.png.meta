@@ -1,0 +1,596 @@
+fileFormatVersion: 2
+guid: 80ecac5c40396c3499162671ee72a491
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -37155936220931408
+    second: PurpleHazmat_0
+  - first:
+      213: 849678694661079344
+    second: PurpleHazmat_1
+  - first:
+      213: -2471211857822372297
+    second: PurpleHazmat_2
+  - first:
+      213: 8921758515060352261
+    second: PurpleHazmat_3
+  - first:
+      213: 6822453329412286733
+    second: PurpleHazmat_4
+  - first:
+      213: -778200514554502145
+    second: PurpleHazmat_5
+  - first:
+      213: 802590075460988283
+    second: PurpleHazmat_6
+  - first:
+      213: -485647394269161047
+    second: PurpleHazmat_7
+  - first:
+      213: 2168552307577549829
+    second: PurpleHazmat_8
+  - first:
+      213: -8690811254716279528
+    second: PurpleHazmat_9
+  - first:
+      213: -4378030952396220032
+    second: PurpleHazmat_10
+  - first:
+      213: 2474979091276614342
+    second: PurpleHazmat_11
+  - first:
+      213: 2130256875410136671
+    second: PurpleHazmat_12
+  - first:
+      213: -5840639225545311306
+    second: PurpleHazmat_13
+  - first:
+      213: 6089489325867551921
+    second: PurpleHazmat_14
+  - first:
+      213: -7810928485424193265
+    second: PurpleHazmat_14
+  - first:
+      213: 4713953791773082852
+    second: PurpleHazmat_15
+  - first:
+      213: 2586655977440383918
+    second: PurpleHazmat_17
+  - first:
+      213: -4686324144811479796
+    second: PurpleHazmat_16
+  - first:
+      213: -6158372360009116449
+    second: PurpleHazmat_19
+  - first:
+      213: -8905925209445784237
+    second: PurpleHazmat_17
+  - first:
+      213: 199191602804191040
+    second: PurpleHazmat_18
+  - first:
+      213: 2428232629474753465
+    second: PurpleHazmat_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PurpleHazmat_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 255
+        width: 30
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba11447fdefb7ff0800000000000000
+      internalID: -37155936220931408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleHazmat_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 255
+        width: 30
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031cd70654aaacb00800000000000000
+      internalID: 849678694661079344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleHazmat_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 257
+        width: 33
+        height: 34
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.38235295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ea3c988ed74bdd0800000000000000
+      internalID: -2471211857822372297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleHazmat_3
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 207
+        width: 33
+        height: 34
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.38235295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5052df5991470db70800000000000000
+      internalID: 8921758515060352261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleHazmat_4
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 208
+        width: 34
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.36363637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09ec4cf7293eae50800000000000000
+      internalID: 6822453329412286733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleHazmat_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 155
+        width: 30
+        height: 38
+      alignment: 9
+      pivot: {x: 0.6, y: 0.39473686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3e3fd41c64335f0800000000000000
+      internalID: -778200514554502145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleHazmat_6
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 155
+        width: 30
+        height: 39
+      alignment: 9
+      pivot: {x: 0.6, y: 0.3846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d2b1cdb6f532b00800000000000000
+      internalID: 802590075460988283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleHazmat_7
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 155
+        width: 27
+        height: 42
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.35714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a91e7a9442a249f0800000000000000
+      internalID: -485647394269161047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleHazmat_8
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 155
+        width: 39
+        height: 42
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.35714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504730295de381e10800000000000000
+      internalID: 2168552307577549829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleHazmat_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 105
+        width: 30
+        height: 38
+      alignment: 9
+      pivot: {x: 0.6, y: 0.39473686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8155ba0b539046780800000000000000
+      internalID: -8690811254716279528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleHazmat_10
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 107
+        width: 33
+        height: 37
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.35135135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08912ca6b0c1e33c0800000000000000
+      internalID: -4378030952396220032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleHazmat_11
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 105
+        width: 27
+        height: 42
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.35714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cacf0ade54e85220800000000000000
+      internalID: 2474979091276614342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleHazmat_12
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 107
+        width: 39
+        height: 40
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.32500002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e97237751309d10800000000000000
+      internalID: 2130256875410136671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleHazmat_13
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 55
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: 0.45000002, y: 0.39473686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbb824c191e1fea0800000000000000
+      internalID: -5840639225545311306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleHazmat_14
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 55
+        width: 43
+        height: 36
+      alignment: 9
+      pivot: {x: 0.41860464, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01af443de10a9390800000000000000
+      internalID: -7810928485424193265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleHazmat_15
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 55
+        width: 46
+        height: 36
+      alignment: 9
+      pivot: {x: 0.39130434, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e48d3e7ff35b6140800000000000000
+      internalID: 4713953791773082852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleHazmat_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 5
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: 0.45000002, y: 0.39473686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0dec2ef405d6feb0800000000000000
+      internalID: -4686324144811479796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleHazmat_17
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 7
+        width: 43
+        height: 34
+      alignment: 9
+      pivot: {x: 0.41860464, y: 0.38235295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355a9c6253cc76480800000000000000
+      internalID: -8905925209445784237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleHazmat_18
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 5
+        width: 46
+        height: 36
+      alignment: 9
+      pivot: {x: 0.39130434, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f626715bba3c200800000000000000
+      internalID: 199191602804191040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,596 @@
+fileFormatVersion: 2
+guid: fdaa273d53e068841a58d7c743f5c712
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5101722873909926080
+    second: LightGreenHazmat_0
+  - first:
+      213: 4566602145241870663
+    second: LightGreenHazmat_1
+  - first:
+      213: 7476349151300015019
+    second: LightGreenHazmat_2
+  - first:
+      213: -5867619764318893759
+    second: LightGreenHazmat_3
+  - first:
+      213: -2918821354236222465
+    second: LightGreenHazmat_4
+  - first:
+      213: 3493910339920897707
+    second: LightGreenHazmat_5
+  - first:
+      213: 7064776977457695967
+    second: LightGreenHazmat_6
+  - first:
+      213: -6638068903307986172
+    second: LightGreenHazmat_7
+  - first:
+      213: -114904112094174141
+    second: LightGreenHazmat_8
+  - first:
+      213: -6610489552013118711
+    second: LightGreenHazmat_9
+  - first:
+      213: 8895348013783294640
+    second: LightGreenHazmat_10
+  - first:
+      213: 1193413159780215496
+    second: LightGreenHazmat_11
+  - first:
+      213: 6333904947949121970
+    second: LightGreenHazmat_12
+  - first:
+      213: -5386393389682735098
+    second: LightGreenHazmat_13
+  - first:
+      213: 8239297906728939186
+    second: LightGreenHazmat_14
+  - first:
+      213: 1002074025094289359
+    second: LightGreenHazmat_14
+  - first:
+      213: -832862011342014079
+    second: LightGreenHazmat_15
+  - first:
+      213: -5855176961087933190
+    second: LightGreenHazmat_17
+  - first:
+      213: 3347753572352995914
+    second: LightGreenHazmat_16
+  - first:
+      213: 4203314447440596850
+    second: LightGreenHazmat_19
+  - first:
+      213: 313058595519460636
+    second: LightGreenHazmat_17
+  - first:
+      213: 7716368045188171091
+    second: LightGreenHazmat_18
+  - first:
+      213: 1516319885564401327
+    second: LightGreenHazmat_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LightGreenHazmat_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 255
+        width: 30
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8d2e97ce5fcc640800000000000000
+      internalID: 5101722873909926080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightGreenHazmat_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 255
+        width: 30
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741bda9c474df5f30800000000000000
+      internalID: 4566602145241870663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightGreenHazmat_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 257
+        width: 33
+        height: 34
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.38235295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3d70411f351c760800000000000000
+      internalID: 7476349151300015019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightGreenHazmat_3
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 207
+        width: 33
+        height: 34
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.38235295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14906be89e6029ea0800000000000000
+      internalID: -5867619764318893759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightGreenHazmat_4
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 208
+        width: 34
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.36363637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3ece161734e77d0800000000000000
+      internalID: -2918821354236222465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightGreenHazmat_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 155
+        width: 30
+        height: 38
+      alignment: 9
+      pivot: {x: 0.6, y: 0.39473686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6ac0051fcdc7030800000000000000
+      internalID: 3493910339920897707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightGreenHazmat_6
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 155
+        width: 30
+        height: 39
+      alignment: 9
+      pivot: {x: 0.6, y: 0.3846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc49beea312b0260800000000000000
+      internalID: 7064776977457695967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightGreenHazmat_7
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 155
+        width: 27
+        height: 42
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.35714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bb2cf9087d0e3a0800000000000000
+      internalID: -6638068903307986172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightGreenHazmat_8
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 155
+        width: 39
+        height: 42
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.35714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344256f9157c76ef0800000000000000
+      internalID: -114904112094174141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightGreenHazmat_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 105
+        width: 30
+        height: 38
+      alignment: 9
+      pivot: {x: 0.6, y: 0.39473686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903b3dcb6c2d244a0800000000000000
+      internalID: -6610489552013118711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightGreenHazmat_10
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 107
+        width: 33
+        height: 37
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.35135135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2a70393ef927b70800000000000000
+      internalID: 8895348013783294640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightGreenHazmat_11
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 105
+        width: 27
+        height: 42
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.35714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cae9f222fadf8010800000000000000
+      internalID: 1193413159780215496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightGreenHazmat_12
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 107
+        width: 39
+        height: 40
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.32500002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1b89fddfc86e750800000000000000
+      internalID: 6333904947949121970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightGreenHazmat_13
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 55
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: 0.45000002, y: 0.39473686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608c27b10cfaf35b0800000000000000
+      internalID: -5386393389682735098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightGreenHazmat_14
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 55
+        width: 43
+        height: 36
+      alignment: 9
+      pivot: {x: 0.41860464, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc71460440518ed00800000000000000
+      internalID: 1002074025094289359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightGreenHazmat_15
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 55
+        width: 46
+        height: 36
+      alignment: 9
+      pivot: {x: 0.39130434, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189ba03d9641174f0800000000000000
+      internalID: -832862011342014079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightGreenHazmat_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 5
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: 0.45000002, y: 0.39473686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4235ab032c957e20800000000000000
+      internalID: 3347753572352995914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightGreenHazmat_17
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 7
+        width: 43
+        height: 34
+      alignment: 9
+      pivot: {x: 0.41860464, y: 0.38235295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15f1db4225385400800000000000000
+      internalID: 313058595519460636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightGreenHazmat_18
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 5
+        width: 46
+        height: 36
+      alignment: 9
+      pivot: {x: 0.39130434, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355cd91aadb061b60800000000000000
+      internalID: 7716368045188171091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

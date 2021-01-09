@@ -1,0 +1,596 @@
+fileFormatVersion: 2
+guid: eff0223935b46d74f90496a0008d3a0b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8454060176009671185
+    second: BrownHazmat_0
+  - first:
+      213: -8747186883003976818
+    second: BrownHazmat_1
+  - first:
+      213: -8461895274263087210
+    second: BrownHazmat_2
+  - first:
+      213: -8371954798058553419
+    second: BrownHazmat_3
+  - first:
+      213: -5524644554554827931
+    second: BrownHazmat_4
+  - first:
+      213: 7652919996339556739
+    second: BrownHazmat_5
+  - first:
+      213: 4362762229721010205
+    second: BrownHazmat_6
+  - first:
+      213: -6203619268106046199
+    second: BrownHazmat_7
+  - first:
+      213: 4799884634705151531
+    second: BrownHazmat_8
+  - first:
+      213: 3292729273189984591
+    second: BrownHazmat_9
+  - first:
+      213: -1816069171063207979
+    second: BrownHazmat_10
+  - first:
+      213: 3195561321028140202
+    second: BrownHazmat_11
+  - first:
+      213: 5887007426486088900
+    second: BrownHazmat_12
+  - first:
+      213: -6930003759354761099
+    second: BrownHazmat_13
+  - first:
+      213: 3611411999978229894
+    second: BrownHazmat_14
+  - first:
+      213: -5038450249462098342
+    second: BrownHazmat_14
+  - first:
+      213: 6485175351208096234
+    second: BrownHazmat_15
+  - first:
+      213: 8920631154153563410
+    second: BrownHazmat_17
+  - first:
+      213: 6344266461972632115
+    second: BrownHazmat_16
+  - first:
+      213: 6528500265082107981
+    second: BrownHazmat_19
+  - first:
+      213: -7907012711860993955
+    second: BrownHazmat_17
+  - first:
+      213: 8826614842643860595
+    second: BrownHazmat_18
+  - first:
+      213: 6048840127802652353
+    second: BrownHazmat_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BrownHazmat_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 255
+        width: 30
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11235d440fad25570800000000000000
+      internalID: 8454060176009671185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownHazmat_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 255
+        width: 30
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83779edfdfbb9680800000000000000
+      internalID: -8747186883003976818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownHazmat_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 257
+        width: 33
+        height: 34
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.38235295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697fdf2c41f419a80800000000000000
+      internalID: -8461895274263087210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownHazmat_3
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 207
+        width: 33
+        height: 34
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.38235295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfb71ab777d0db80800000000000000
+      internalID: -8371954798058553419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownHazmat_4
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 208
+        width: 34
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.36363637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b96776c058453b0800000000000000
+      internalID: -5524644554554827931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownHazmat_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 155
+        width: 30
+        height: 38
+      alignment: 9
+      pivot: {x: 0.6, y: 0.39473686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3819d449032a43a60800000000000000
+      internalID: 7652919996339556739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownHazmat_6
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 155
+        width: 30
+        height: 39
+      alignment: 9
+      pivot: {x: 0.6, y: 0.3846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10130e0225ab8c30800000000000000
+      internalID: 4362762229721010205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownHazmat_7
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 155
+        width: 27
+        height: 42
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.35714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90535c2d42158e9a0800000000000000
+      internalID: -6203619268106046199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownHazmat_8
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 155
+        width: 39
+        height: 42
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.35714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26c476f4ad9c9240800000000000000
+      internalID: 4799884634705151531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownHazmat_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 105
+        width: 30
+        height: 38
+      alignment: 9
+      pivot: {x: 0.6, y: 0.39473686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49e40e04df12bd20800000000000000
+      internalID: 3292729273189984591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownHazmat_10
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 107
+        width: 33
+        height: 37
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.35135135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d74d3bf5b60cc6e0800000000000000
+      internalID: -1816069171063207979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownHazmat_11
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 105
+        width: 27
+        height: 42
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.35714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac3cd5371ae85c20800000000000000
+      internalID: 3195561321028140202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownHazmat_12
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 107
+        width: 39
+        height: 40
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.32500002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c43acd401ad2b150800000000000000
+      internalID: 5887007426486088900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownHazmat_13
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 55
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: 0.45000002, y: 0.39473686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570b98f2c4ea3df90800000000000000
+      internalID: -6930003759354761099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownHazmat_14
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 55
+        width: 43
+        height: 36
+      alignment: 9
+      pivot: {x: 0.41860464, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5655566134d31ab0800000000000000
+      internalID: -5038450249462098342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownHazmat_15
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 55
+        width: 46
+        height: 36
+      alignment: 9
+      pivot: {x: 0.39130434, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1b0ea3f98fff950800000000000000
+      internalID: 6485175351208096234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownHazmat_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 5
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: 0.45000002, y: 0.39473686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3329d4adbbc5b0850800000000000000
+      internalID: 6344266461972632115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownHazmat_17
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 7
+        width: 43
+        height: 34
+      alignment: 9
+      pivot: {x: 0.41860464, y: 0.38235295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50070be4d5a44290800000000000000
+      internalID: -7907012711860993955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrownHazmat_18
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 5
+        width: 46
+        height: 36
+      alignment: 9
+      pivot: {x: 0.39130434, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c4af81f6f6e7a70800000000000000
+      internalID: 8826614842643860595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
